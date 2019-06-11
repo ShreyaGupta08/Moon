@@ -6,12 +6,14 @@ date: 2019-06-07
 comments: false
 ---
     
-<center><a href="http://ShreyaGupta08.github.io"><b>I</b></a> am a third year undergrauate at Delhi Technological University, Delhi, India. Welcome to my space.</center>
+<center>I am a dissident of the conventional approaches to machine learning and aim to understand the world behind the three lines of code.</center>
+<!-- <center><a href="http://ShreyaGupta08.github.io"><b>I</b></a> am a third year undergrauate at Delhi Technological University, Delhi, India. Welcome to my space.</center> -->
 
-## How I got here
-Insert text
+## Brief 
+I am a 3rd-year undergraduate at Delhi Technological University, Delhi, India, interested in Machine Learning-oriented research. Having used ML in the fields of healthcare, surveillance and software engineering, I'm deeply fascinated by the power and utility it possesses. I aim to bring a change in this world with the help of theoretical and applied Machine Learning, Deep Learning, and Natural Language Processing.  
 
-## Preview
+## Welcome to my space!
+<!-- ## Preview
 
 {% capture images %}
     https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
@@ -26,3 +28,4 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+ -->
