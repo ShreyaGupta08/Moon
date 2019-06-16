@@ -18,7 +18,11 @@ Welcome to my space!
 
 ## Updates:
 
+* 16 June 2019: [New blog](https://shreyagupta08.github.io/respite/) up: Travelling Respite 
+
 * 15 June 2019: In association with ZS Associates, gave a [talk](https://bit.ly/2Ija5pk) about [Women Who Code](https://womenwhocode.com), the community that gave me more than I can repay.
+
+* 16 April 2019: Orientation of CLIMB (Connect. Learn. Inspire. Mentor. Belong.), our University's first society working towards empowering women to excel in STEM Fields. Mentored by Ms. Anamika Chauhan, it felt bolstering and a different kind of strong to be in a room full of passionate women. 
 
 * 12 March 2019: I'll be joining as a Research Intern and RIPS Scholar at IPAM, UCLA for the summers of 2019!
 
