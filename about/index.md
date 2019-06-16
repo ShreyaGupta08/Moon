@@ -15,6 +15,23 @@ I am a 3rd-year undergraduate at Delhi Technological University, Delhi, India, i
 Research in Industrial Projects for Students (RIPS) scholar and incoming Research Intern at Institute of Pure and Applied Mathematics, UCLA. 
 
 ## Welcome to my space!
+
+Updates:
+
+* 15 June 2019: In association with ZS Associates, gave a [talk](https://bit.ly/2Ija5pk) about [Women Who Code](https://womenwhocode.com), the community that gave me more than I can repay.
+
+* 12 March 2019: I'll be joining as a Research Intern and RIPS Scholar at IPAM, UCLA for the summers of 2019!
+
+* 2 March 2019: In Kerala, amongst the top 4 teams participating in World's biggest hackathon, Smart India Hackathon 2019, on [Real Time Mapping for Epidemic Spread](https://github.com/ShreyaGupta08/Epidemic-Spread-SIH) for ThermoFischer.
+
+* 27 February 2019: At SMIT, Sikkim, presenting my paper titled 'Identification of Neural Correlates of Face Recognition Using Machine Learning Approach' at ISCMM'19, in conjuction with ICACCPA
+
+* 19 January 2019: At LinkedIn office, Bangalore, amongst the top 20 teams participating in LinkedIn Wintathon 2019. Designing a [Voice Assistant System for LinkedIn](https://github.com/ShreyaGupta08/Voice-Assistant-LinkedIn)
+
+* 12 January 2019: Delivered my first talk, titled [NeuroML](https://bit.ly/2IKafVB), in association with [Women in Machine Learning and Data Science](https://www.facebook.com/delhiwimlds) 
+
+* 1 January 2019: Beginning the new year on a good note, my paper titled 'Identification of Neural Correlates of Face Recognition Using Machine Learning Approach' got accepted in ISCMM'19, in conjuction with ICACCPA.
+
 <!-- ## Preview
 
 {% capture images %}
