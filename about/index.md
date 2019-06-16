@@ -14,9 +14,9 @@ I am a 3rd-year undergraduate at Delhi Technological University, Delhi, India, i
 
 Research in Industrial Projects for Students (RIPS) scholar and incoming Research Intern at Institute of Pure and Applied Mathematics, UCLA. 
 
-## Welcome to my space!
+Welcome to my space!
 
-Updates:
+## Updates:
 
 * 15 June 2019: In association with ZS Associates, gave a [talk](https://bit.ly/2Ija5pk) about [Women Who Code](https://womenwhocode.com), the community that gave me more than I can repay.
 
@@ -30,7 +30,7 @@ Updates:
 
 * 12 January 2019: Delivered my first talk, titled [NeuroML](https://bit.ly/2IKafVB), in association with [Women in Machine Learning and Data Science](https://www.facebook.com/delhiwimlds) 
 
-* 1 January 2019: Beginning the new year on a good note, my paper titled 'Identification of Neural Correlates of Face Recognition Using Machine Learning Approach' got accepted in ISCMM'19, in conjuction with ICACCPA.
+* 1 January 2019: My paper titled 'Identification of Neural Correlates of Face Recognition Using Machine Learning Approach' got accepted in ISCMM'19, in conjuction with ICACCPA. Beginning the new year on a good note.
 
 <!-- ## Preview
 
