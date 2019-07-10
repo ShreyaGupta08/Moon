@@ -18,6 +18,8 @@ Welcome to my space!
 
 ## Updates:
 
+* 24 June 2019: Starting Research Intern at Institute of Pure and Applied Mathematics, UCLA for summers of 2019!
+
 * 16 June 2019: [New blog](https://shreyagupta08.github.io/respite/) up: Travelling Respite 
 
 * 15 June 2019: In association with ZS Associates, gave a [talk](https://bit.ly/2Ija5pk) about [Women Who Code](https://womenwhocode.com), the community that gave me more than I can repay.
