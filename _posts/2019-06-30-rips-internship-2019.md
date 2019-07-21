@@ -1,18 +1,21 @@
 ---
 layout: post
-title: "Post with Image Feature"
-date: 2012-05-23
-excerpt: "A ton of text to test readability with image feature."
-tags: [sample post, readability, test, image, feature]
-feature: http://i.imgur.com/Ds6S7lJ.png
-comments: true
+title: "Summer Research Intern at Institute of Pure and Applied Mathematics, UCLA"
+date: 2019-06-30
+excerpt: "A day by day brief of Research Experience for Undergraduates (REU) as a RIPS Scholar under IPAM, UCLA and Google, LA for the summers of 2019."
+tags: [Research intern, IPAM, UCLA, intern, Google, experience]
+<!-- feature: http://i.imgur.com/Ds6S7lJ.png -->
+comments: false
 ---
 
-Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90's narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.
+RIPS stands for Research in Industrial Projects for Students. It is an annual research scholarship organised by the Institute of Pure and Applied Mathematics (IPAM) of UCLA. With an acceptance rate of 2-3%, it hosts every year 36 interns who work on 9 industrial projects in groups of 4.
 
-Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
+<!-- The industrial projects are sponsored by companies by Google, GumGum, Alibaba, Amazon, US Air Force etc. to name a few. * They are subject to change each year.  -->
 
-## Cupidatat 90's lo-fi authentic try-hard
+I was one of the interns selected for the year 2019 and this blog contains my experience.
+
+## Week 1
+
 
 In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90's.
 
