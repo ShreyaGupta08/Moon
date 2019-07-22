@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Myself
-tags: [about, Shreya, theme, moon]
+tags: [about, Shreya, myself, updates]
 date: 2019-06-07
 comments: false
 ---
@@ -11,8 +11,6 @@ comments: false
 
 ## Brief 
 I am a 3rd-year undergraduate at Delhi Technological University, Delhi, India, interested in Machine Learning-oriented research. Having used ML in the fields of healthcare, surveillance and software engineering, I'm deeply fascinated by the power and utility it possesses. I aim to bring a change in this world with the help of theoretical and applied Machine Learning, Deep Learning, and Natural Language Processing. 
-
-Research in Industrial Projects for Students (RIPS) scholar and incoming Research Intern at Institute of Pure and Applied Mathematics, UCLA. 
 
 Welcome to my space!
 
