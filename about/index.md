@@ -16,7 +16,7 @@ Welcome to my space!
 
 ## Updates:
 
-* 10 July 2019: Awarded as Google Women Techmaker Scholar 2019! Will be flying to Sydney, Australia to attend the summit from 29 - 31 August! So grateful!
+* 10 July 2019: Awarded as Google Women Techmaker Scholar 2019! Will be flying to Sydney, Australia to attend the summit from 29 - 31 August! So excited and grateful!
 
 * 24 June 2019: Starting Research Intern at Institute of Pure and Applied Mathematics, UCLA for summers of 2019!
 
