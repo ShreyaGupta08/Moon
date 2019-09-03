@@ -14,16 +14,23 @@ RIPS stands for Research in Industrial Projects for Students. It is an annual re
 
 ## THE INTERNSHIP
 
-RIPS is a crossover between research and industrial experience. We are given an industrial problem and have to solve it using quantitative and qualitative research. Each year witnesses some industrial companies who bring their problems and sponsor their respective projects. I had a chance to work, with my fellow teammates, for Google, LA. 
+RIPS is a crossover between research and industrial experience. We are given an industrial problem and have to solve it using quantitative and qualitative research. Each year witnesses industrial companies bringing their problems. I had a chance to work, with my fellow teammates, for Google, LA. 
 
 
 ## Problem Description
 
-Google has an Ads Data Hub (ADH) for advertisers (customers) to analyze their ad campaigns. The advertisers can not see the raw data, for it can violate users' privacy. Hence advertisers can query the database to generate useful analytics. ADH has its own privacy filters so that advertisers only obtain aggregate results. Despite those filters, leaks can still occur. Our goal was to develop a framework that can measure the risk of privacy leaks in Google's ADH.
+Google has an Ads Data Hub (ADH) for advertisers (customers) to analyze their ad campaigns (system diagram in figure 1). The advertisers can not see the raw data, for it can violate users' privacy. Hence advertisers can query the database to generate useful analytics. ADH has its own privacy filters so that advertisers only obtain aggregate results. Despite those filters, leaks can still occur. Our goal was to develop a framework that can measure the risk of privacy leaks in Google's ADH.
+
+
+<figure>
+	<a href="https://github.com/ShreyaGupta08/ShreyaGupta08.github.io/blob/master/adh_system_rips.png">
+	<img src="https://github.com/ShreyaGupta08/ShreyaGupta08.github.io/blob/master/adh_system_rips.png"></a>
+	<figcaption>Figure 1: High level overview of working of ADH</figcaption>
+</figure>
 
 ## Conclusion
 
-We provided Google, LA with the necessary deliverables, designing a framework that gives a risk assessment score descrptive of how at risk each user is and how each attribute contributes to the risk. We call it the PIRATE Score (Probabilistic Identification Risk and Attacker Threat Estimate score). Paper for the same will soon be available.
+We provided Google, LA with the necessary deliverables, designing a framework that gives a risk assessment score descriptive of how at risk each user is and how each attribute contributes to the risk. We call it the PIRATE Score (Probabilistic Identification Risk and Attacker Threat Estimate score). Paper for the same will soon be available.
 
 
 Our report, results and outputs are available on request. Please mail at shreyagupta_btk216[at]dtu[dot]ac[dot]in
