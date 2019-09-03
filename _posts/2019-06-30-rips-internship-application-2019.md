@@ -10,7 +10,7 @@ comments: false
 
 ## Introduction: RIPS Internship
 
-RIPS stands for Research in Industrial Projects for Students. It is an annual research scholarship organised by the Institute of Pure and Applied Mathematics (IPAM) of UCLA. With an acceptance rate of 2-3%, it hosts every year 36 interns who work on 9 industrial projects in groups of 4. I was one of the interns selected for the year 2019 and this post will describes my application process and experience. The intern and personal experience will be covered in a separate post.
+RIPS stands for Research in Industrial Projects for Students. It is an annual research scholarship organised by the Institute of Pure and Applied Mathematics (IPAM) of UCLA. With an acceptance rate of 2-3%, it hosts every year 36 interns who work on 9 industrial projects in groups of 4. I was one of the interns selected for the year 2019 and this post describes my application process and experience. The intern and personal experience will be covered in a separate post.
 
 ## APPLICATION AND PRE-SELECTION EXPERIENCE:
 
@@ -21,8 +21,8 @@ Fast forward to February 28, I had come back from my bitter-sweet conference and
 Finally in second week of March (a night before my Operating Systems mid-term examination), just before I was going to bed, at 12.15 am I received an email that said ‘RIPS LA 2019 Offer Letter’ and I remember going to my friends in adjacent room and showing them the email. The next few minutes were about shedding some tears and staying in disbelief. I told my two awesomesauce seniors, mentors and guides, and as always they made me realise how big it was and congratulated me in the best way possible! (In words of one of them: Right now, I am this person who is sitting in a Google meeting room smiling like crazies). 
 
 This is the [link](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019/?tab=overview) to RIPS official page. The applicaions open in November and the deadline is February second week.
-<!-- 
-Formally, the questions asked were:
+
+<!-- Formally, the questions asked were:
 
 - Q1: List all upper-division math, statistics and computer science courses taken (with your grade in parentheses) and in progress
 
@@ -32,8 +32,7 @@ Formally, the questions asked were:
 
 -Q4: Please describe any previous summer (e.g., REU) or academic year research experience in the space provided. (Max 1000 characters)
 
-- Q5: One student on each team of four students will serve as project manager, whose role includes coordinating individual team member efforts. Would you like to serve as a project manager? If so, please explain your interest in the position and describe any relevant prior experience you may have. (Max 1000 characters. Your answer to this question will not affect whether or not your application is accepted.)
- -->
+- Q5: One student on each team of four students will serve as project manager, whose role includes coordinating individual team member efforts. Would you like to serve as a project manager? If so, please explain your interest in the position and describe any relevant prior experience you may have. (Max 1000 characters. Your answer to this question will not affect whether or not your application is accepted.)-->
 <!-- Also required were:
 - Transcripts (unofficial accepted - to the best of my knowledge)
 - 2 Letter of Recommendations from professors you have worked with -->
