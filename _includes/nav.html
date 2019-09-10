@@ -3,7 +3,7 @@
 		<ul class="dl-menu">
 			<li><a href="{{ site.url }}/">Home</a></li>
 			<li>
-				<a href="#">About</a>
+				<a href="#">About & Updates</a>
 				<ul class="dl-submenu">
 					<li>
 						<img src="{{ site.url }}/{{ site.logo }}" alt="{{ site.title }} photo" class="author-photo">
@@ -85,12 +85,17 @@
                     </li>{% endif %}
 				</ul><!-- /.dl-submenu -->
 			</li>
+
+            <li>
+                <a class="btn btn-default" href="{{ site.url }}/Resume-SHREYA GUPTA.pdf">CV</a>
+            </li>
+
 			<li>
-				<a href="#">Posts</a>
-				<ul class="dl-submenu">
+				<a href="#">Research Blog</a>
+				<!-- <ul class="dl-submenu">
 					<li><a href="{{ site.url }}/posts/">All Posts</a></li>
 					<li><a href="{{ site.url }}/tags/">All Tags</a></li>
-				</ul>
+				</ul> -->
 			</li>
 			{% for link in site.data.navigation %}
 		    {% if link.url contains 'http' %}
