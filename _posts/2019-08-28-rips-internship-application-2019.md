@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RIPS at IPAM, UCLA - Application 2019"
-date: 2019-06-30
+date: 2019-08-28
 excerpt: "Application and Pre-intern experience as a RIPS Scholar under IPAM, UCLA and Google, LA for the summers of 2019."
 tags: [Research intern, application, IPAM, UCLA, intern]
 <!-- feature: http://i.imgur.com/Ds6S7lJ.png -->

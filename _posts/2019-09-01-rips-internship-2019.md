@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RIPS at IPAM, UCLA - Internship 2019"
-date: 2019-06-30
+date: 2019-09-01
 excerpt: "Brief of Research Experience for Undergraduates (REU) as a RIPS Scholar under IPAM, UCLA and Google, LA for the summers of 2019."
 tags: [Research intern, IPAM, UCLA, intern, Google, experience]
 <!-- feature: http://i.imgur.com/Ds6S7lJ.png -->
