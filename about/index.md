@@ -10,13 +10,19 @@ comments: false
 <!-- <center><a href="http://ShreyaGupta08.github.io"><b>I</b></a> am a third year undergrauate at Delhi Technological University, Delhi, India. Welcome to my space.</center> -->
 
 ## Brief 
-I am a 3rd-year undergraduate at Delhi Technological University, Delhi, India, interested in Machine Learning-oriented research. Having used ML in the fields of healthcare, surveillance and software engineering, I'm deeply fascinated by the power and utility it possesses. I aim to bring a change in this world with the help of theoretical and applied Machine Learning, Deep Learning, and Natural Language Processing. 
+I am a senior-year Computer Science undergraduate at Delhi Technological University, Delhi, India, interested in Machine Learning-oriented research. Having used ML in the fields of healthcare, surveillance and software engineering, I'm deeply fascinated by the power and utility it possesses. I aim to bring a change in this world with the help of theoretical and applied Machine Learning, Deep Learning, and Natural Language Processing. 
 
 Welcome to my space!
 
 ## Updates:
 
-* 29 August 2019: First paper published! [Link](https://doi.org/10.1007/978-981-13-8798-2_2) for the same!  
+* 1 September 2019: [New blog](https://shreyagupta08.github.io/rips-internship-2019/) up: Intern experience at RIPS, IPAM, UCLA.
+
+* 29 August 2019: First paper published! [Link](https://doi.org/10.1007/978-981-13-8798-2_2) for the same!
+
+* 28 August 2019: [New blog](https://shreyagupta08.github.io/rips-internship-application-2019/) up: Application and Pre-Intern experience at RIPS at IPAM, UCLA.  
+
+* 18 August 2019: DTU Times, my college's official newsletter interviewed me. Read [here](https://dtutimes.me/blog/university-of-california-los-angeles-internship-interview-456?fbclid=IwAR0sks9EU4eKGoFPEP6E9C_W3o7YmbV-0dNC0dQGntX7PcDLkuvZ72sE0xA) to know more!
 
 * 10 July 2019: Awarded as Google Women Techmaker Scholar 2019! Will be flying to Sydney, Australia to attend the summit from 29 - 31 August! So excited and grateful!
 
