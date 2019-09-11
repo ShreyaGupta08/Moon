@@ -24,7 +24,7 @@ Fast forward to February 28, I had come back from my bitter-sweet conference and
 Finally in second week of March (a night before my Operating Systems mid-term examination), just before I was going to bed, at 12.15 am, I received an email that said ‘RIPS LA 2019 Offer Letter’ and I remember going to my friends in adjacent room and showing them the email. The next few minutes were about shedding some tears and staying in disbelief. I told my two awesomesauce seniors, mentors and guides, and as always they made me realise how big it was and congratulated me in the best way possible! (In words of one of them: Right now, I am this person who is sitting in a Google meeting room smiling like crazies).
 
 Key takeaways:
-* Refer to this link and contribute to it if you find other internships.
+* Refer to this [link](https://github.com/himahuja/Research-Internships-for-Undergraduates) and contribute to it if you find other internships.
 * Don’t apply everywhere. Be selective and invest your effort and time only in programs that align with your ideology.
 * Don’t stop yourself from applying just because you don’t think you have a shot (Imposter Syndrome). You have a shot. But only if you put yourself out there. Apply.
 * Have a good support system, progressive friends and consistent mindset.
