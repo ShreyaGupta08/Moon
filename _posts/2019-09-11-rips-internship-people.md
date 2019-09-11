@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RIPS at IPAM, UCLA - People 2019"
-date: 2019-09-011
+date: 2019-09-11
 excerpt: "Brief of and about people at RIPS, IPAM, UCLA, my summer intern for 2019."
 tags: [Research, IPAM, UCLA, intern, people, experience]
 <!-- feature: http://i.imgur.com/Ds6S7lJ.png -->
@@ -25,6 +25,7 @@ Miguel was first my teammate (and the only guy in our group of 4), then my offic
 <figure>
 	<a href="/images/mohammad.JPG"><img src="/images/mohammad.JPG", style="float:right;width:128px;height:128px;"></a>
 </figure>
+
 Where do I begin. Half the time I was confused if to call him Mohammad or Uzair but I never thought twice before randomly texting him to ask if he wanted to buy things for his family, at the randomest of times. Mohammad, my fellow from Pakistan, was a home away from home. We went for shopping together and when one of us was confused (which we inevitably were mostly), the other would take the call. It was effortless. It took me two weeks to strike up a conversation with him, but I’ll always be thankful to that one fine tea-time. Uzair taught me how to keep my priorities straight and not let the background noise affect me. He knew why was there, what his objectives were, and hence didn’t run after the popular notions. From forcing him to go out to talking about adjusting to packing together and then impromptu going to the beach, Mohammad was all my adventures and advice in a person. 
 
 ## Duda
