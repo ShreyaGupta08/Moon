@@ -25,9 +25,9 @@ The advertisers can not see the raw data, for it can violate users' privacy. Hen
 
 
 <figure>
-	<a href="https://github.com/ShreyaGupta08/ShreyaGupta08.github.io/blob/master/adh_system_rips.png">
-	<img src="https://github.com/ShreyaGupta08/ShreyaGupta08.github.io/blob/master/adh_system_rips.png"></a>
-	<!-- <figcaption>Figure 1: High level overview of working of ADH</figcaption> -->
+	<a href="adh_system_rips.png">
+	<img src="adh_system_rips.png"></a>
+	<figcaption>Figure 1: High level overview of working of ADH</figcaption>
 </figure>
 
 ## Conclusion
