@@ -33,6 +33,6 @@ The advertisers can not see the raw data, for it can violate users' privacy. Hen
 We provided Google, LA with the necessary deliverables, designing a framework that gives a risk assessment score descriptive of how at risk each user is and how each attribute contributes to the risk. We call it the PIRATE Score (Probabilistic Identification Risk and Attacker Threat Estimate score). Paper for the same will soon be available.
 
 
-Our report, results and outputs are available on request. Please mail at shreyagupta_btk216[at]dtu[dot]ac[dot]in
+Our report, results and outputs are available on request. Please mail at shreyagupta_bt2k16[at]dtu[dot]ac[dot]in
 
 <!-- which did more than what I could imagine any internship to do. It gave me people, tech, good memories and some very important life skills and lessons. -->

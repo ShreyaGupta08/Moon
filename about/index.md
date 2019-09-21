@@ -10,11 +10,13 @@ comments: false
 <!-- <center><a href="http://ShreyaGupta08.github.io"><b>I</b></a> am a third year undergrauate at Delhi Technological University, Delhi, India. Welcome to my space.</center> -->
 
 ## Brief 
-I am a senior-year Computer Science undergraduate at Delhi Technological University, Delhi, India, interested in Machine Learning-oriented research. Having used ML in the fields of healthcare, surveillance and software engineering, I'm deeply fascinated by the power and utility it possesses. I aim to bring a change in this world with the help of theoretical and applied Machine Learning, Deep Learning, and Natural Language Processing. 
+I am a senior-year Computer Science undergraduate at Delhi Technological University, Delhi, India, interested in Machine Learning-oriented research. Having used ML in the fields of healthcare, surveillance and software engineering, I'm deeply fascinated by the power and utility it possesses. I aim to bring a change in this world with the help of theoretical and applied Machine Learning, Deep Learning, and Natural Language Processing with a strong inclination towards researching the mathematics behind them. 
 
 Welcome to my space!
 
 ## Updates:
+
+* 11 September 2019: [New blog](https://shreyagupta08.github.io/rips-internship-people/) up: People at RIPS, IPAM, UCLA.
 
 * 1 September 2019: [New blog](https://shreyagupta08.github.io/rips-internship-2019/) up: Intern experience at RIPS, IPAM, UCLA.
 
