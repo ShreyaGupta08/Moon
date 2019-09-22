@@ -19,7 +19,7 @@ I had the fantastic opportunity to work as a Research Intern at Institute of Pur
 Miguel was first my teammate, then my office partner and finally my project manager. I can’t begin to testify how amazing he was at all three of his designations. He was my primary interaction for the first few weeks and we spent most of our office time together. Miguel was undoubtedly THE BEST office partner I could ever imagine having. He not only enlightened me with the most amazing wines and videos, but pair programming with him was the most fun. Together we came up with the best acronym for our proposed framework in the project. He is amazingly smart, efficient and caring. He is genuine and honest. He taught me the importance a relationship deserves, how to compartmentalise things, and the power of efficiency. He is a great listener and our conversation on the bus ride to San Francisco will always be a highlight.
 
 <figure>
-	<a href="/images/miguel.JPG"><img src="/images/miguel.JPG"></a>
+	<a href="/images/miguel.JPG"><img src="/images/miguel.JPG" width="500" height="600"></a>
 </figure>
 
 ## Mohammad Uzair
