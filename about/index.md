@@ -16,6 +16,8 @@ Welcome to my space!
 
 ## Updates:
 
+* 20 October 2019: [New blog](https://shreyagupta08.github.io/google-wtm-experience/) up: Google WomenTechmakers APAC Events and Experience 2019.
+
 * 17 October 2019: [New blog](https://shreyagupta08.github.io/how-to-go-about-gre/) up: How to go about preparing for the GRE.
 
 * 11 September 2019: [New blog](https://shreyagupta08.github.io/rips-internship-people/) up: People at RIPS, IPAM, UCLA.

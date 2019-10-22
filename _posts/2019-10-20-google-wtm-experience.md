@@ -11,7 +11,7 @@ readers.[^1]
 
 [^1]: <http://en.wikipedia.org/wiki/Syntax_highlighting> -->
 
-WTM experience 
+<!-- WTM experience  -->
 
 I applied for WTM scholarship for the first time on 8th August 2018. It was during the application process that this sudden realisation hit me that I hadn’t done anything for the field that I had been so vocal about since eternity. Immediately after submitting the application I dropped a text to my college senior who I came to know was extensively involved in uplifting women-in-tech. I met her, and started volunteering in events held by Women Who Code Delhi and Women in Machine Learning and Data Science (WiMLDS) Delhi. Eventually I joined them and organised and delivered a talk, mentored a group of 7 students, and conducted a 4 lecture series on Machine Learning from an implementation point of view. This year I applied again.
 
