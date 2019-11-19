@@ -24,6 +24,11 @@ On 11 June 2019 I received an email titled 'Congratulations! Women Techmakers Sc
 This year the WTM retreat happened in Google Sydney headquarters. I was so excited to be in Sydney. The retreat was scheduled for 29-31 August 2019. I flew from my research internship in LA to India on the 26th and left for Sydney on the 27th. Our stay was in Novotel, Sydney, an amazing hotel. The rooms were great and comfortable and my roommate, who reached just 15 minutes before me, was from South Korea. Her name was Hyunsung. She was extremely nice and welcoming. 
 
 ### Day 0
+
+<figure>
+    <a href="/images/wtm/IMG_20190828_121527_01.jpg"><img src="/images/wtm/IMG_20190828_121527_01.jpg" width="128" height="128"></a>
+</figure>
+
 Since we reached on 28th and had our return flights on the morning of 1st September, day 0 was the only day we had for sight seeing. I along with my roommate and her two fellow scholars from South Korea went around Sydney, seeing the most we could in a single day. We walked across the Harbour Bridge, saw the entire town of Sydney from the top of a tower, saw the Opera House, took a ferry to Watsons Bay and walked to the manly beach, one of the prettiest walks I’ve made. We made it in time to join in for the Welcoming Dinner in Google office. We were given some very important survival kit for the Sydney weather: WTM Hoodies and umbrella, and of course pizza. This was our first meeting with the fellow scholars and Google TOPs specialists and Engineers from different regions of APAC.  
 
 ### Day 1, Theme: Own Your Career
@@ -117,6 +122,12 @@ She recommended ‘Unlocking the Club Science’ and it is on my top now
 The three days were absolutely amazing. I got to interact with some AMAZING Googlers and scholars, ask them questions about their work and talk about my work. It was not only fostering to know it is okay to not know but also to learn to talk about your achievements with pride instead of hiding them in yourself. 
 It has been more than a month to the retreat and every time I see a post from a fellow scholar, it brings about a smile on my face of all the things they are doing! I am so proud of my girls. I have reached out to my fellow scholars for collaborations and so have they. After a long time it feels so great to be surrounded by people who talk about tech and life and deeply want to bring a change in the position of women and other minorities in the tech field.
 
+<figure>
+    <a href="/images/wtm/IMG_20190831_170947_01.jpg"><img src="/images/wtm/IMG_20190831_170947_01.jpg" width="128" height="128"></a>
+</figure>
 
+<figure>
+    <a href="/images/wtm/69707272_917590221946256_4127103099145814016_o.jpg"><img src="/images/wtm/69707272_917590221946256_4127103099145814016_o.jpg" width="128" height="128"></a>
+</figure>
 
 

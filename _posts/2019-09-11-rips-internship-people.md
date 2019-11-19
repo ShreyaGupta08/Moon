@@ -19,7 +19,7 @@ I had the fantastic opportunity to work as a Research Intern at Institute of Pur
 Miguel was first my teammate, then my office partner and finally my project manager. I can’t begin to testify how amazing he was at all three of his designations. He was my primary interaction for the first few weeks and we spent most of our office time together. Miguel was undoubtedly THE BEST office partner I could ever imagine having. He not only enlightened me with the most amazing wines and videos, but pair programming with him was the most fun. Together we came up with the best acronym for our proposed framework in the project. He is amazingly smart, efficient and caring. He is genuine and honest. He taught me the importance a relationship deserves, how to compartmentalise things, and the power of efficiency. He is a great listener and our conversation on the bus ride to San Francisco will always be a highlight.
 
 <figure>
-	<a href="/images/miguel.JPG"><img src="/images/miguel.JPG" width="128" height="128"></a>
+	<a href="/images/rips/miguel.JPG"><img src="/images/rips/miguel.JPG" width="128" height="128"></a>
 </figure>
 
 ## Mohammad Uzair
@@ -27,7 +27,7 @@ Miguel was first my teammate, then my office partner and finally my project mana
 Where do I begin. Half the time I was confused if to call him Mohammad or Uzair but I never thought twice before randomly texting him to ask if he wanted to buy things for his family, at the randomest of times. Mohammad, my fellow from Pakistan, was a home away from home. We went for shopping together and when one of us was confused (which we inevitably were mostly), the other would take the call; it was effortless. It took me a week to strike up a conversation with him, but I’ll always be thankful to that one fine tea-time. Uzair taught me how to keep my priorities straight and not let the background noise affect me. He knew why was there, what his objectives were, and hence didn’t run after the popular notions. From forcing him to go out to packing together followed by impromptu going to the beach, Mohammad was all my adventures and advice in a person. 
 
 <figure>
-	<a href="/images/mohammad.JPG"><img src="/images/mohammad.JPG"></a>
+	<a href="/images/rips/mohammad.JPG"><img src="/images/rips/mohammad.JPG"></a>
 </figure>
 
 ## Duda
@@ -35,7 +35,7 @@ Where do I begin. Half the time I was confused if to call him Mohammad or Uzair 
 Duda was my best friend. She was my first friend, thanks to the trip to social security office and for the serendipituous cab sharing. It was the first time I realised I was not the only person feeling different the other side of Mississippi. Duda is honest, funny and crazy fun. She is not only smart but also a compassionate listener and I loved giving advices to this tall girl of perfection. She introduced me to the most fun people (including her team, in the best form)! The best thing about Duda was she knew she was imperfect, but she was so secure with who she was, it was contagious. She surrounded herself with amazing people (including me) and taught me how to ‘not worry about it’, how if ‘you want it, you got it’ and how machine learning is not the only place math can revolutionise. To Duda, let’s stay connected on LinkedIn.
 
 <figure>
-	<a href="/images/duda.JPG"><img src="/images/duda.JPG"></a>
+	<a href="/images/rips/duda.JPG"><img src="/images/rips/duda.JPG"></a>
 </figure>
 
 ## Roland

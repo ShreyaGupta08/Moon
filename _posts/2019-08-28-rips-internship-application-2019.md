@@ -32,27 +32,10 @@ Key takeaways:
  
 This is the [link](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019/?tab=overview) to RIPS official page. The applicaions open in November and the deadline is February second week.
 
-<!-- Formally, the questions asked were:
-
-- Q1: List all upper-division math, statistics and computer science courses taken (with your grade in parentheses) and in progress
-
-- Q2: Please describe your experience with each program or computing language for which you rate your skills 3 or higher 
-
-- Q3: Please describe your research experience with large datasets
-
--Q4: Please describe any previous summer (e.g., REU) or academic year research experience in the space provided. (Max 1000 characters)
-
-- Q5: One student on each team of four students will serve as project manager, whose role includes coordinating individual team member efforts. Would you like to serve as a project manager? If so, please explain your interest in the position and describe any relevant prior experience you may have. (Max 1000 characters. Your answer to this question will not affect whether or not your application is accepted.)-->
-<!-- Also required were:
-- Transcripts (unofficial accepted - to the best of my knowledge)
-- 2 Letter of Recommendations from professors you have worked with -->
-
-<!-- Does not require Statement of Purpose (SOP) -->
-
 Hope this was helpful. If you have any other queries regarding the application process, contact me on my email id: shreyagupta_bt2k16 [at] dtu [dot] ac [dot] in
 
 <figure>
-	<a href="/images/rips-group-picture.JPG"><img src="/images/rips-group-picture.JPG"></a>
+	<a href="/images/rips/rips-group-picture.JPG"><img src="/images/rips/rips-group-picture.JPG"></a>
 	<figcaption>The amazing team</figcaption>
 </figure>
 

@@ -24,7 +24,7 @@ Google has an Ads Data Hub (ADH) for advertisers (customers) to analyze their ad
 The advertisers can not see the raw data, for it can violate users' privacy. Hence advertisers can query the database to generate useful analytics. ADH has its own privacy filters so that advertisers only obtain aggregate results. Despite those filters, leaks can still occur. Our goal was to develop a framework that can measure the risk of privacy leaks in Google's ADH.
 
 <figure>
-	<a href="/images/adh_system_rips.png"><img src="/images/adh_system_rips.png"></a>
+	<a href="/images/rips/adh_system_rips.png"><img src="/images/rips/adh_system_rips.png"></a>
 	<figcaption>Figure 1: High level overview of working of ADH</figcaption>
 </figure>
 
