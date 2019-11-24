@@ -1,6 +1,6 @@
 ---
 layout: talk
-title: Publications, Lectures and Talks
-excerpt: "A List of Publications, Lectures and Talks"
+title: Lectures and Talks
+excerpt: "A List of Lectures and Talks"
 comments: false
 ---
