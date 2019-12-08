@@ -7,13 +7,13 @@ tags: [machine learning, teaching, algorithms, knowledge]
 comments: false
 ---
 
-Practically ML Series
-
 After reading, scratching the internet, doing multiple projects to solve the fad behind machine learning, taking couple of courses, I wanted to test how much I undertstood and know about the field in the last one and a half year. So I approached my director at Women Who Code Delhi, Brihi Joshi, with the idea of teaching people machine learning from scratch but from a practical perspective. Brihi was not only supportive but together we proposed an entire series out of it; We called it 'Practically ML'.
 
 Practically ML was one of a kind ML series that taught its attendees theoretical concepts of machine learning from a applicative perspective. The series took place as a workshop of four lectures. 
 
-The series was attended by 300+ high school students, undergraduates, researchers and industry professionals. We pragmatically derived all equations from scratch, and conducted engaging out-of-the-box competitions to ensure collaborative understanding. ​Each session concluded with contests where attendees solved questions like, ‘Designing an algorithm to fetch k most relevant documents using different types of learning algorithms’ or tweaked the classical algorithms like ‘designing K means clustering algorithm if some labels are known’. ​It was extremely satisfying to see teams with proportionate men and women standing at the platform, presenting their solutions and posing foundational questions​
+The series was attended by 300+ high school students, undergraduates, researchers and industry professionals. We pragmatically derived all equations from scratch, and conducted engaging out-of-the-box competitions to ensure collaborative understanding. ​Each session concluded with contests where attendees solved questions like, ‘Designing an algorithm to fetch k most relevant documents using different types of learning algorithms’ or tweaked the classical algorithms like ‘designing K means clustering algorithm if some labels are known’. ​
+
+> It was extremely satisfying to see teams with proportionate men and women standing at the platform, presenting their solutions and posing foundational questions​
 
 <figure>
 	<a href="/images/Practically ML/teaching.png"><img src="/images/Practically ML/teaching.png"></a>
