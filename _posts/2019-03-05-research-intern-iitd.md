@@ -2,7 +2,7 @@
 layout: post
 title: "Identification of Neural Correlates of Face Recognition Using Machine Learning Approach"
 date: 2019-03-05
-excerpt: "My first research experience - under Dr. Tapan Gandhi, Indian Institute of Technology (IIT), Delhi - on using computational neuroscience in machine learning to design an artificial face recognition model for patients with Autism and Prosopagnosia."
+excerpt: "My research experience under Dr. Tapan Gandhi, Indian Institute of Technology (IIT), Delhi, on using computational neuroscience and machine learning to design an artificial face recognition model for patients with Autism and Prosopagnosia."
 project: true
 tags: [machine learning, neuroscience, face recognition]
 comments: false
@@ -28,7 +28,7 @@ Using eye-tracking, the findings of this paper can be extended to extract featur
 
 
 <figure>
-	<a href="/images/projects/iitd/presentation.png"><img src="/images/projects/iitd/presentation.png"></a>
+	<a href="/images/research/iitd/presentation.png"><img src="/images/research/iitd/presentation.png"></a>
 </figure>
 
 Conference Presentation Link: https://bit.ly/2r6kw9n
