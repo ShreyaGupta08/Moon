@@ -35,7 +35,7 @@ Topics covered in the lecture series:
 
 The ​series ended with bolstering reviews t​o an extent that the second series, titled 'Practically DL', on practical applications of deep learning is already on its way​. 
 
-Useful links (with code): https://github.com/WomenWhoCodeDelhi/PracticallyML
+Useful links (with code): [https://github.com/WomenWhoCodeDelhi/PracticallyML](https://github.com/WomenWhoCodeDelhi/PracticallyML)
 
 <figure>
 	<a href="/images/Practically ML/group_img.jpg"><img src="/images/Practically ML/group_img.jpg"></a>

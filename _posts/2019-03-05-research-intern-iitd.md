@@ -31,7 +31,7 @@ Using eye-tracking, the findings of this paper can be extended to extract featur
 	<a href="/images/research/iitd/presentation.png"><img src="/images/research/iitd/presentation.png"></a>
 </figure>
 
-Conference Presentation Link: https://bit.ly/2r6kw9n
+Conference Presentation Link: [https://bit.ly/2r6kw9n](https://bit.ly/2r6kw9n)
 
 
 References:
