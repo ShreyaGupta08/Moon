@@ -16,7 +16,7 @@ The series was attended by 300+ high school students, undergraduates, researcher
 > It was extremely satisfying to see teams with proportionate men and women standing at the platform, presenting their solutions and posing foundational questions​
 
 <figure>
-	<a href="/images/Practically ML/teaching.png"><img src="/images/Practically ML/teaching.png"></a>
+	<a href="/images/Practically ML/teaching.jpg"><img src="/images/Practically ML/teaching.jpg"></a>
 </figure>
 
 Topics covered in the lecture series:
@@ -38,7 +38,7 @@ The ​series ended with bolstering reviews t​o an extent that the second seri
 Useful links (with code): https://github.com/WomenWhoCodeDelhi/PracticallyML
 
 <figure>
-	<a href="/images/Practically ML/group_img.png"><img src="/images/Practically ML/group_img.png"></a>
+	<a href="/images/Practically ML/group_img.jpg"><img src="/images/Practically ML/group_img.jpg"></a>
 	<figcaption>With the 100+ attendees on the first day</figcaption>
 </figure>
 
