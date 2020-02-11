@@ -16,6 +16,32 @@ Welcome to my space!
 
 ## Updates:
 
+## 2020
+
+#### February
+
+23 February 2020: Hosting our first event as MLNerdie Delhi with Coding Ninjas on how to go about research using gender bias in word embeddings as an example! Ecstatic!
+
+9 February 2020: Presented my first poster, on the research conducted as a part of RIPS, IPAM, UCLA at [ACSS 2020](http://lcs2.iiitd.edu.in/acss2020/). Won best paper award from the 10 competing posters! 
+
+#### January
+
+11 January 2020: After year of wanting to host it and weeks of planning, conducted 'You, Opportunities and Everything In Between', a scholarship and opportunities event at Google, Gurgaon. Hosted 120+ attendees and brought 12 speakers. [Blog](https://medium.com/women-who-code-delhi/you-opportunities-and-everything-in-between-b5fd61372e68) of the event.
+
+## 2019
+
+Thank you 2019 for being extremely kind to me. For blessing me with some amazing professional opportunities and some important personal learnings. Looking forward to a 2020 full of growth, quality work, travel and adventure!
+
+#### December
+
+2 December 2019: After weeks of talks with Abi Aryan, finally founding MLNerdie Delhi, a journal club to cultivate machine learning culture through discussions, online and offline events, collaborations and paper reading sessions. 
+
+#### November
+
+* 16 November 2019: Hosted a Panel Discussion on 'how communities can shape your journey in tech' in collaboration with Grofers, India, with Women Who Code Delhi
+
+* 7 November 2019: Conducted the first inter-country WTM collaboration webinar series, titled 'Ask Me Anything with Google WTM Scholars' with Tania Wu [Link](https://www.facebook.com/womenwhocodedelhi/videos/468880203982992/?comment_id=469715763899436) of the session
+
 #### October
 * 20 October 2019: [New blog](https://shreyagupta08.github.io/google-wtm-experience/) up: Google WomenTechmakers APAC Events and Experience 2019.
 
